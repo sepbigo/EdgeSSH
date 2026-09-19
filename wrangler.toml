@@ -5,7 +5,7 @@ workers_dev = true
 preview_urls = false
 
 routes = [
-  { pattern = "ssh.dltwcnm.ccwu.cc", custom_domain = true }
+  { pattern = "ssh.keet.us.ci", custom_domain = true }
 ]
 
 [build]
